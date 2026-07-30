@@ -47,7 +47,6 @@ https://www.linkedin.com/in/devansh-sarvaiya-a5977541b
 
 🐙 GitHub:
 https://github.com/devanshsarvaiya
-💻 GitHub: https://github.com/devanshsarvaiya/devansh-portfolio
 
 ---
 
