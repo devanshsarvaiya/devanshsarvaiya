@@ -31,3 +31,19 @@ Become a Professional AI Full Stack Developer and build real-world applications.
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+🔗 Live Demo: https://devanshsarvaiya.github.io/devansh-portfolio/
+
+💻 GitHub: https://github.com/devanshsarvaiya/devansh-portfolio
+
+---
+
+### 🍔 Foodie Hub Restaurant
+
+🔗 Live Demo: https://devanshsarvaiya.github.io/foodie-hub-restaurant/
+
+💻 GitHub: https://github.com/devanshsarvaiya/foodie-hub-restaurant
