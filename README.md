@@ -25,3 +25,9 @@ Become a Professional AI Full Stack Developer and build real-world applications.
 - 🌱 Currently improving my coding skills every day
 - 🚀 Building real-world projects to become job-ready
 - 📍 Bagasara, Gujarat, India
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
