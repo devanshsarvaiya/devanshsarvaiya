@@ -17,3 +17,11 @@ I'm passionate about Web Development, AI, and building real-world projects.
 Become a Professional AI Full Stack Developer and build real-world applications.
 
 ---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Student from Nobel University, Junagadh
+- 💻 Passionate about AI and Full Stack Development
+- 🌱 Currently improving my coding skills every day
+- 🚀 Building real-world projects to become job-ready
+- 📍 Bagasara, Gujarat, India
