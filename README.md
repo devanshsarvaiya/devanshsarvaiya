@@ -51,6 +51,16 @@ https://github.com/devanshsarvaiya
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devanshsarvaiya&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshsarvaiya&layout=compact&theme=tokyonight" />
+</p>
+
 ### 🍔 Foodie Hub Restaurant
 
 🔗 Live Demo: https://devanshsarvaiya.github.io/foodie-hub-restaurant/
