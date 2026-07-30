@@ -38,6 +38,15 @@ Become a Professional AI Full Stack Developer and build real-world applications.
 
 🔗 Live Demo: https://devanshsarvaiya.github.io/devansh-portfolio/
 
+## 📫 Contact Me
+
+📧 Email: devanshsarvaiya3@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/devansh-sarvaiya-a5977541b
+
+🐙 GitHub:
+https://github.com/devanshsarvaiya
 💻 GitHub: https://github.com/devanshsarvaiya/devansh-portfolio
 
 ---
