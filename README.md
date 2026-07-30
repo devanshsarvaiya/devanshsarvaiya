@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Devansh
 
-<!--
-**devanshsarvaiya/devanshsarvaiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring AI Full Stack Developer | MCA Student
 
-Here are some ideas to get you started:
+I'm passionate about Web Development, AI, and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- React.js (Starting Soon)
+
+### 🎯 Goal
+
+Become a Professional AI Full Stack Developer and build real-world applications.
+
+---
